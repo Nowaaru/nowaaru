@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nowaaru/nowaaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> uh oh, i exist!</h1>
+
+<p align="center">
+  i program and stuff.<br/>
+  full stack, i guess?<br/>
+  11/01/04 ♏ 
+</p>
+
+💫 Currently working on **[座り読み・Suwariyomi](https://github.com/Nowaaru/suwariyomi)**.
+
+✉️ Contact:
+- Discord: Noire#8268
+- Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
