@@ -21,11 +21,27 @@ Here are some ideas to get you started:
   11/01/04 ♏ 
 </p>
 
-💫 Currently working on **[座り読み・Suwariyomi](https://github.com/Nowaaru/suwariyomi)**.
+<p align="center">
+╭──────────────────────────╮<br/>
+│                        <a href="https://open.spotify.com/track/5iY3ZEHlQGFosdnROBDIg7?si=d7fd7fe8c7a747a1">Lavender</a>                      │<br/>
+│               <a href="https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn?si=2773a05ce8b94a6c"><code>Rav</code></a>, <a href="https://open.spotify.com/artist/3vxcGARzVb3sETtt0Jxp7v?si=a4d26afacb46454f"><code>Kill Bill: The Rapper</code></a>               │<br/>
+│             00:29 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">━━⬤</a>─────── 02:19              │<br/>
+╰──────────────────────────╯<br/>
+</p>
+<br/>
+
+
+🦀 Currently working on **[座り読み・suwariyomi.rs](https://github.com/Nowaaru/suwariyomi.rs)**.
+
+💫 Worked previously on: 
+- **[suwariyomi](https://github.com/Nowaaru/suwariyomi)**
+
+
 
 ✉️ Contact:
 - Discord: Noire#8268
 - Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
 
 [![Nowaaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowaaru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaaru&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
