@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   11/01/04 ♏ 
 </p>
 
+<!--
 <p align="center">
 ╭──────────────────────────╮<br/>
 │                        <a href="https://open.spotify.com/track/5iY3ZEHlQGFosdnROBDIg7?si=d7fd7fe8c7a747a1">Lavender</a>                      │<br/>
@@ -28,8 +29,14 @@ Here are some ideas to get you started:
 │             00:29 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">━━⬤</a>─────── 02:19              │<br/>
 ╰──────────────────────────╯<br/>
 </p>
-<br/>
+-->
 
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fifkee&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fifkee&redirect=true)
+
+</div>
+<br />
 
 🦀 Currently working on **[座り読み・suwariyomi.rs](https://github.com/Nowaaru/suwariyomi.rs)**.
 
