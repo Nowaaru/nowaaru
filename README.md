@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - Discord: Noire#8268
 - Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
 
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
