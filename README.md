@@ -50,6 +50,82 @@ Here are some ideas to get you started:
 - Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 923 Contributions in the Year 2022
+ > 
+> 📦 16.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+🌆 Daytime    91 commits     ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+🌃 Evening    68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+🌙 Night      138 commits    ██████████░░░░░░░░░░░░░░░   40.95%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
+Tuesday      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+Thursday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Sunday       69 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Phoenix
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
+Lua                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/charts/bar_graph.png) 
+
+
+ Last Updated on 18/08/2022 06:29:24 UTC
 <!--END_SECTION:waka-->
 
 [![Nowaaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowaaru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
