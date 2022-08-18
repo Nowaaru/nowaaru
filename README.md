@@ -130,6 +130,8 @@ HTML                     1 repo              █░░░░░░░░░░�
  Last Updated on 18/08/2022 06:29:24 UTC
 <!--END_SECTION:waka-->
 
+<!--
 [![Nowaaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowaaru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowaaru&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
