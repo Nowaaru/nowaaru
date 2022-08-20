@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 - Discord: Noire#8268
 - Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
 
+<br />
+
+☕ Like what I do?
+
+<a href="https://www.buymeacoffee.com/noire">
+<img width="136" alt="bmc-button" src="https://user-images.githubusercontent.com/16274568/185726271-65d08167-e68c-49b1-bc12-8813b73cf0c0.png"></a>
+
+
 ---
 
 <!--START_SECTION:waka-->
