@@ -60,15 +60,15 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,095 Contributions in the Year 2022
+> 🏆 1,103 Contributions in the Year 2022
  > 
-> 📦 17.0 kB Used in GitHub's Storage 
+> 📦 17.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-🌆 Daytime    147 commits    ███████░░░░░░░░░░░░░░░░░░   31.08% 
+🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
+🌆 Daytime    139 commits    ███████░░░░░░░░░░░░░░░░░░   29.39% 
 🌃 Evening    95 commits     █████░░░░░░░░░░░░░░░░░░░░   20.08% 
 🌙 Night      155 commits    ████████░░░░░░░░░░░░░░░░░   32.77%
 
@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
 Tuesday      34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
 Wednesday    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Thursday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
 Friday       118 commits    ██████░░░░░░░░░░░░░░░░░░░   24.95% 
-Saturday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
 Sunday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
 
 ```
@@ -142,7 +142,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 18:51:12 UTC
+ Last Updated on 09/09/2022 18:52:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
