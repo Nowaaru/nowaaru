@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,286 Contributions in the Year 2022
  > 
-> 📦 21.3 kB Used in GitHub's Storage 
+> 📦 21.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,7 +142,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2022 17:08:35 UTC
+ Last Updated on 05/10/2022 19:02:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
