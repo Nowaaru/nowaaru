@@ -105,19 +105,16 @@ Sunday       85 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-JSON                     38 mins             ██████████████░░░░░░░░░░░   56.98% 
-Rust                     29 mins             ██████████░░░░░░░░░░░░░░░   42.83% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          58 mins             █████████████████████░░░░   85.53% 
-suwariyomi.rs            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.47%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -138,7 +135,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 18:52:44 UTC
+ Last Updated on 01/11/2022 18:54:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
