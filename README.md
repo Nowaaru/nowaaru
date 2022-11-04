@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,432 Contributions in the Year 2022
  > 
-> 📦 21.8 kB Used in GitHub's Storage 
+> 📦 21.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,18 +105,19 @@ Sunday       85 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-TypeScript               34 mins             ████████████████████████░   98.22% 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+TypeScript               3 hrs 21 mins       ████████████████████████░   99.41% 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+list                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 🔥 Editors: 
-Neovim                   35 mins             █████████████████████████   100.0%
+Neovim                   3 hrs 23 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-suwariyomi.rs            34 mins             ████████████████████████░   98.22% 
-nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+suwariyomi.rs            3 hrs 22 mins       █████████████████████████   99.69% 
+nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.0%
+Windows                  3 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -137,7 +138,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 18:52:47 UTC
+ Last Updated on 04/11/2022 18:47:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
