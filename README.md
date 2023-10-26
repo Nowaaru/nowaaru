@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -103,18 +103,18 @@ Sunday                   595 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ████████████████████████░   97.56 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               1 hr 28 mins        ███████████████████░░░░░░   76.15 % 
+Markdown                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-combatgame               2 hrs 20 mins       █████████████████████░░░░   84.33 % 
-combatgame-example       26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+combatgame               1 hr 54 mins        █████████████████████████   98.61 % 
+combatgame-example       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-WSL                      2 hrs 46 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,7 +134,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2023 18:33:48 UTC
+ Last Updated on 26/10/2023 18:34:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
