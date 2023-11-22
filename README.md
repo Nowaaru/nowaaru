@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,18 +103,18 @@ Sunday                   595 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-AutoHotkey               6 mins              █████████████████████░░░░   85.48 % 
-fish                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+AutoHotkey               1 hr 45 mins        █████████████████████████   98.91 % 
+fish                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.00 % 
+Neovim                   1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████░░░░   85.48 % 
-nowaaru                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Unknown Project          1 hr 45 mins        █████████████████████████   98.91 % 
+nowaaru                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-WSL                      8 mins              █████████████████████████   100.00 % 
+WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,7 +134,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2023 18:35:22 UTC
+ Last Updated on 22/11/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
