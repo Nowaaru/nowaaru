@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -134,7 +134,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 18:34:09 UTC
+ Last Updated on 23/11/2023 18:33:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
