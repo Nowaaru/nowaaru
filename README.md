@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 20.2 kB Used in GitHub's Storage 
+> 📦 20.3 kB Used in GitHub's Storage 
  > 
 > 🏆 399 Contributions in the Year 2023
  > 
@@ -133,7 +133,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2023 18:33:48 UTC
+ Last Updated on 17/12/2023 18:33:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
