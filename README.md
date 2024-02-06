@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,17 +103,17 @@ Sunday                   618 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Nix                      1 hr 16 mins        ████████████████████████░   97.90 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Nix                      3 hrs 25 mins       █████████████████████████   99.20 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Neovim                   1 hr 18 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-.diary                   1 hr 18 mins        █████████████████████████   100.00 % 
+.diary                   3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +133,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nowaaru/Nowaaru/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 18:33:37 UTC
+ Last Updated on 06/02/2024 18:33:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
