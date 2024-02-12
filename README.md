@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ✉️ Contact:
 - Discord: Noire#8268
-- Twitter: <a href=https://twitter.com/@Fifkee>@Fifkee</a>
+- Twitter: <a href=https://twitter.com/@nowaaru_>@nowaaru_</a>
 
 <br />
 
