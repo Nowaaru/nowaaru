@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 36 mins
+Total Time: 33 hrs 12 mins
 
-Rust        12 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   39.00 %
-Nix         9 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Lua         7 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-TOML        1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Nix         13 hrs 34 mins  ██████████░░░░░░░░░░░░░░░   39.97 %
+Rust        10 hrs 53 mins  ████████░░░░░░░░░░░░░░░░░   32.08 %
+Lua         6 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+TOML        1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
