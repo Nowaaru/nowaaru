@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 4 mins
+Total Time: 15 hrs 5 mins
 
-TypeScript   13 hrs 59 mins  █████████████████░░░░░░░░   68.28 %
-Nix          2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Markdown     1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Lua          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TypeScript   10 hrs 3 mins   ████████████████▓░░░░░░░░   66.02 %
+Nix          2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Markdown     1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Lua          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
