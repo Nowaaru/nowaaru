@@ -82,13 +82,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 13 mins
+Total Time: 0 secs
 
-Nix          3 hrs 6 mins    ██████████████████▒░░░░░░   73.69 %
-yuck         42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-SCSS         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
