@@ -82,9 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 17 mins
 
-No activity tracked
+Nix     1 hr 29 mins    ████████████████▒░░░░░░░░   64.95 %
+yuck    20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Lua     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+SCSS    13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
