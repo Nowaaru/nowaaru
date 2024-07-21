@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 17 mins
+Total Time: 4 hrs 51 mins
 
-Nix     1 hr 29 mins    ████████████████▒░░░░░░░░   64.95 %
-yuck    20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Lua     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-SCSS    13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Nix     4 hrs 4 mins    █████████████████████░░░░   83.43 %
+yuck    20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Lua     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+SCSS    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
