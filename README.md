@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 29 mins
+Total Time: 27 hrs 55 mins
 
-TypeScript   25 hrs          ██████████████████████░░░   87.78 %
-JSON         2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-TSConfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Lua          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   22 hrs 12 mins  ████████████████████░░░░░   79.42 %
+JSON         4 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+TSConfig     50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+gitignore    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Lua          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
