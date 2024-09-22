@@ -84,9 +84,8 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 7 mins
 
-Python   7 mins          ████████████████████████░   96.02 %
-Nix      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Lua      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python   7 mins          █████████████████████████   99.54 %
+Lua      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
