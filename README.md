@@ -82,12 +82,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 47 mins
 
-Python      19 mins         █████████████░░░░░░░░░░░░   51.77 %
-Other       9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-conf        5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-sshconfig   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Nix        36 mins         ███████████████████▓░░░░░   78.60 %
+HTML       8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+TSConfig   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
