@@ -82,11 +82,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 31 mins
+Total Time: 0 secs
 
-Python     4 hrs 11 mins   ██████████████████████▓░░   90.90 %
-Markdown   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
