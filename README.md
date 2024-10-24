@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 15 mins
+Total Time: 14 hrs 9 mins
 
-Nix          8 hrs 30 mins   ███████████░░░░░░░░░░░░░░   43.83 %
-Lua          5 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-JSON         2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-TypeScript   1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Python       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Nix          8 hrs 2 mins    ██████████████░░░░░░░░░░░   56.16 %
+JSON         2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+TypeScript   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Lua          1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Python       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
