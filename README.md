@@ -84,11 +84,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 11 hrs 31 mins
 
-Nix          6 hrs 41 mins   ██████████████▒░░░░░░░░░░   57.37 %
-JSON         2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-TypeScript   1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Python       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Nix          6 hrs 3 mins    █████████████░░░░░░░░░░░░   52.40 %
+JSON         2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+TypeScript   1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Python       1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+conf         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
