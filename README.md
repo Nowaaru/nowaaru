@@ -82,12 +82,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 2 mins
+Total Time: 1 hr 37 mins
 
-Python     1 hr 35 mins    ███████████████████▒░░░░░   77.68 %
-Nix        26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python     1 hr 35 mins    ████████████████████████▓   98.33 %
+Nix        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
