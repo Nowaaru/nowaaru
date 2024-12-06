@@ -82,12 +82,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 52 mins
+Total Time: 8 hrs 14 mins
 
-TypeScript   5 hrs 14 mins   ███████████████████░░░░░░   76.20 %
-fish         1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-Python       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Nix          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+TypeScript   6 hrs 56 mins   █████████████████████░░░░   84.31 %
+fish         1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Nix          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
