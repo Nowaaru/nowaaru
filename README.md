@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> uh oh, i exist!</h1>
+<h1 align="center"> here be puppies</h1>
 
 <p align="center">
-  i program and stuff.<br/>
-  full stack, i guess?<br/>
+  maker of nix modules<br/>
   11/01/04 ♏ 
 </p>
 
@@ -33,22 +32,23 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fifkee&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fifkee&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fifkee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fifkee&redirect=true)
 
 </div>
 <br />
 
-🦀 Currently working on **[座り読み・suwariyomi.rs](https://github.com/Nowaaru/suwariyomi.rs)**.
-
+🦀 currently working on:
+* **[座り読み・suwariyomi.rs](https://github.com/Nowaaru/suwariyomi.rs)**
+* **[❄️ nix mod manager](https://github.com/Nowaaru/nix-mod-manager)**
+* **[quarrelgame 💥 framework](https://github.com/quarrelgame-framework)**
+   
 💫 Worked previously on: 
-- **[suwariyomi](https://github.com/Nowaaru/suwariyomi)**
+- **[🪦 suwariyomi](https://github.com/Nowaaru/suwariyomi)**
 
 
 
-✉️ Contact:
-- Discord: Noire#8268
-- Twitter: <a href=https://twitter.com/@nowaaru_>@nowaaru_</a>
-
+✉️ contact me on:
+- discord - no_are
 <br />
 
 <div align="center">
