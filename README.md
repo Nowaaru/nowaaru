@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 57 mins
+Total Time: 38 mins
 
-Nix   3 hrs 57 mins   █████████████████████████   100.00 %
+Nix   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
