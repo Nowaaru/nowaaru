@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 56 mins
+Total Time: 21 hrs 5 mins
 
-Nix       18 hrs 15 mins  ███████████████████████░░   91.56 %
-TOML      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Python    41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-sudoers   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-INI       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Nix       16 hrs 29 mins  ███████████████████▓░░░░░   78.16 %
+Python    3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+TOML      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+sudoers   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+INI       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
