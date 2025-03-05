@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 8 hrs 55 mins
 
-TypeScript   6 hrs 1 min     █████████████████░░░░░░░░   67.41 %
+TypeScript   6 hrs 1 min     █████████████████░░░░░░░░   67.42 %
 Nix          1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
 Python       1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
 Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
